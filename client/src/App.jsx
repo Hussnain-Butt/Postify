@@ -3,7 +3,7 @@ import Home from "./components/Home";
 
 const App = () => {
   return (
-    <div>
+    <div className="App font-opensans">
       <Home />
     </div>
   );
